@@ -17,4 +17,4 @@
 - Semantic HTML5 markup
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Tailwind CSS](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://nextjs.org/)
